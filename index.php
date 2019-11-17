@@ -30,7 +30,7 @@
                     <h3>Just4Fun</h3>
                     <p>Erster Raidtag: Donnerstags ab 19:00 Uhr</p>
                     <p>Zweiter Raidtag: sofern nötig, flexibel über Gruppe ausgemacht</p>
-                    <p>Interesse? <a href="https://blizzard.com/invite/x0vAVqSaze" />Dann trete der Battle.net-Gruppe bei!</a></p>
+                    <p>Interesse? <a href="https://blizzard.com/invite/09l4pqIPxz" />Dann trete der Battle.net-Gruppe bei!</a></p>
                 </li>
             </ul>
         </div>
